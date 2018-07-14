@@ -79,9 +79,9 @@ getPromotion()
 
 
 ###### approveByPromotion()
-````
+```solidity
 function approveByPromotion(uint actionId, uint value, address buyer) external returns(bool)
-````
+```
 call method approveByPromotion in token 
 
 ## License
